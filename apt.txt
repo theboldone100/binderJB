@@ -12,4 +12,12 @@ fluxbox
 x11vnc
 novnc
 websockify
-firefox
+libgtk-3-0
+libdbus-glib-1-2
+libxt6
+libx11-xcb1
+libxcomposite1
+libxdamage1
+libxrandr2
+libxfixes3
+libasound2t64
