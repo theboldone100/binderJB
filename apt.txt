@@ -5,4 +5,11 @@
 #xfce4-settings
 #xorg
 #tigervnc-standalone-server
+#firefox
+
+xvfb
+fluxbox
+x11vnc
+novnc
+websockify
 firefox
